@@ -12,3 +12,9 @@ def get_node_value(head, idx):
     ptr = ptr.next
     i += 1
   return None
+
+# Recursive
+def get_node_value(head, idx):
+  if head is None:
+    return None
+  return head.val if idx == 0 else get_node_value(head.next, idx - 1)
