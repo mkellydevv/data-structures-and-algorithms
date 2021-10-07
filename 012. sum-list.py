@@ -10,3 +10,9 @@ def sum_list(head):
     sum += ptr.val
     ptr = ptr.next
   return sum
+
+# Recursive
+def sum_list(head):
+  if head is None:
+    return 0
+  return sum_list(head.next) + head.val
