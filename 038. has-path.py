@@ -9,7 +9,7 @@ def has_path(graph, src, dst, visited = set()):
 
   for neighbor in graph[src]:
     if neighbor not in visited:
-      if has_path(graph, neighbor, dst):
+      if has_path(graph, neighbor, dst, visited):
         return True
 
   return False
