@@ -11,7 +11,9 @@ const anagrams = (s1, s2) => {
     else return false;
   }
 
-  for (let key in map) if (map[key] !== 0) return false;
+  for (let key in map) {
+    if (map[key] !== 0) return false;
+  }
 
   return true;
 };

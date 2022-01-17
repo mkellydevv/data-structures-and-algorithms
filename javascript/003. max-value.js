@@ -1,6 +1,10 @@
 const maxValue = (nums) => {
   let max = -Infinity;
-  for (const num of nums) max = Math.max(num, max);
+
+  for (const num of nums) {
+    max = Math.max(num, max);
+  }
+
   return max;
 };
 
