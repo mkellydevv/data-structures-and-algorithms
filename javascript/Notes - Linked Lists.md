@@ -2,9 +2,13 @@
 
 - ordered
 
-- ### Methods
-  - insert: O(1)
+## Methods
+
+- Access: O(n)
+- Search: O(n)
+- Insert: O(1)
+- Delete: O(1)
 
 ## Strategies
 
--
+- Dummy Head
