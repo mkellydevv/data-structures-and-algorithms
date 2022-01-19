@@ -6,6 +6,7 @@
 //   }
 // }
 
+// Backtracking
 const pathFinder = (root, tar, path = []) => {
   if (root === null) return null;
 
