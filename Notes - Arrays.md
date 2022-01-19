@@ -8,7 +8,8 @@
 
 ## Strategies
 
-- two pointers
+- Sliding Window - two pointers
+- Binary Search on sorted arrays
 - Store previously seen values
   - hash map
   - hash set
