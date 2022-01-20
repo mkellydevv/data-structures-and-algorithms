@@ -18,10 +18,12 @@
 
 | Problem                       | Tags                           |
 | ----------------------------- | ------------------------------ |
+| [1. Two Sum][1]               | #array #map                    |
 | [112. Path Sum][112]          | #backtracking #binarytree #dfs |
 | [141. Linked List Cycle][141] | #linkedlist #pointers          |
 | [283. Move Zeroes][283]       | #pointers                      |
 
+[1]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/1.js
 [92]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/92.js
 [112]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/112.js
 [113]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/113.js

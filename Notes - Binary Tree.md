@@ -22,4 +22,5 @@
 
 ## Strategies
 
--
+- DFS
+- BFS

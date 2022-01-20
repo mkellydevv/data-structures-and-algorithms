@@ -19,6 +19,11 @@
 
 ### Specific
 
+- **Triangular Number**
+  - Time: O(1)
+  - Like factorial, but with addition instead of multiplication.
+  - (num) => (num \*\* 2 + num) / 2;
+  - Ex. 5th triangular number is 15 (5 + 4 + 3 + 2 + 1)
 - **Kosaraju's Algorithm**
   - Time: O(v + e)
   - Finds the strongly connected components in a directed graph.
