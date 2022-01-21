@@ -1,39 +1,25 @@
 const longestPath = (graph) => {
-  const visited = new Set();
+  const pathLength = {};
   let longest = 0;
 
   for (let node in graph) {
-    if (!visited.has(node)) {
-      longest = Math.max(longest, explorePath(graph, node, visited));
-    }
+    longest = Math.max(longest, explorePath(graph, node, pathLength));
   }
 
   return longest;
 };
 
-const explorePath = (graph, startNode, visited) => {
-  const visiting = new Set();
-  const stack = [[startNode, 0]];
-  let longest = 0;
+const explorePath = (graph, node, pathLength) => {
+  if (node in pathLength) return pathLength[node];
 
-  while (stack.length > 0) {
-    const [node, dist] = stack.pop();
-
-    longest = Math.max(dist, longest);
-
-    visiting.add(node);
-
-    for (let neighbor of graph[node]) {
-      if (!visiting.has(neighbor)) {
-        stack.push([neighbor, dist + 1]);
-      }
-    }
-
-    visiting.delete(node);
-    visited.add(node);
+  let maxDist = 0;
+  for (let neighbor of graph[node]) {
+    maxDist = Math.max(maxDist, 1 + explorePath(graph, neighbor, pathLength));
   }
 
-  return longest;
+  pathLength[node] = maxDist;
+
+  return maxDist;
 };
 
 module.exports = {
