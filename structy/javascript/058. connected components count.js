@@ -3,7 +3,7 @@ const connectedComponentsCount = (graph) => {
   let count = 0;
 
   for (let node in graph) {
-    if (!visited.has(Number(node))) {
+    if (!visited.has(String(node))) {
       explore(graph, node, visited);
       count++;
     }
@@ -17,11 +17,12 @@ const explore = (graph, startNode, visited) => {
 
   while (stack.length > 0) {
     const node = stack.pop();
+    if (visited.has(String(node))) continue;
 
-    visited.add(Number(node));
+    visited.add(String(node));
 
     for (let neighbor of graph[node]) {
-      if (!visited.has(neighbor)) stack.push(neighbor);
+      if (!visited.has(String(neighbor))) stack.push(neighbor);
     }
   }
 };
