@@ -1,16 +1,18 @@
 const hasCycle = (graph) => {
-  const visited = new Set();
-
   for (let startNode in graph) {
-    if (!visited.has(startNode)) {
-      if (detectCycle(graph, startNode, visited)) return true;
-    }
+    if (detectCycle(graph, startNode)) return true;
   }
 
   return false;
 };
 
-const detectCycle = (graph, node, visited, visiting = new Set()) => {
+const detectCycle = (
+  graph,
+  node,
+  visited = new Set(),
+  visiting = new Set()
+) => {
+  if (visited.has(node)) return false;
   if (visiting.has(node)) return true;
 
   visiting.add(node);
