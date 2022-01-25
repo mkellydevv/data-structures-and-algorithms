@@ -24,5 +24,5 @@
 
 - Traversals
   - ## DFS
-  - BFS
+  - ## BFS
     - Explore nearby nodes first
