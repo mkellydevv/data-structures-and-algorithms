@@ -4,11 +4,12 @@ const canColor = (graph) => {
 
   for (let key in graph) {
     if (setB.has(key)) [setA, setB] = [setB, setA];
-    else setA.add(key);
+
+    setA.add(key);
 
     for (let neighbor of graph[key]) {
       if (setA.has(neighbor)) return false;
-      else setB.add(neighbor);
+      setB.add(neighbor);
     }
   }
 
