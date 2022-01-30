@@ -14,6 +14,7 @@
 | [92. Reverse Linked List II][92]          | #linkedlist #pointers          |
 | [113. Path Sum II][113]                   | #backtracking #binarytree #dfs |
 | [198. House Robber][198]                  | #dp #tabulation                |
+| [210. Course Schedule II][210]            | #bfs #graph #topological       |
 | [230. Kth Smallest Element in a BST][230] | #binarytree #bst #dfs          |
 
 ---
@@ -37,4 +38,5 @@
 [141]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/141.js
 [283]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/283.js
 [198]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/198.js
+[210]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/210.js
 [230]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/230.js
