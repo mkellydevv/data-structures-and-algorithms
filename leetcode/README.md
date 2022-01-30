@@ -17,6 +17,7 @@
 | [198. House Robber][198]                                          | #dp #tabulation                |
 | [200. Number of Islands][200]                                     | #dfs #graph                    |
 | [210. Course Schedule II][210]                                    | #bfs #graph #topological       |
+| [222. Count Complete Tree Nodes][222]                             | #binarysearch #binarytree      |
 | [230. Kth Smallest Element in a BST][230]                         | #binarytree #bst #dfs          |
 
 ---
@@ -44,5 +45,6 @@
 [198]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/198.js
 [200]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/200.js
 [210]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/210.js
+[222]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/222.js
 [230]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/230.js
 [704]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/704.js
