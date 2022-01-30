@@ -28,6 +28,7 @@
 | [112. Path Sum][112]          | #backtracking #binarytree #dfs |
 | [141. Linked List Cycle][141] | #linkedlist #pointers          |
 | [283. Move Zeroes][283]       | #pointers                      |
+| [704. Binary Search][704]     | #array #binarysearch           |
 
 [1]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/1.js
 [15]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/15.js
@@ -42,3 +43,4 @@
 [200]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/200.js
 [210]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/210.js
 [230]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/230.js
+[704]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/704.js
