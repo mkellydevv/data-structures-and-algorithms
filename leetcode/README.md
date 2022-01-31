@@ -12,6 +12,7 @@
 | [16. 3Sum Closest][16]                                            | #array #pointers #sort         |
 | [18. 4Sum][18]                                                    | #array #pointers #sort         |
 | [34. Find First and Last Position of Element in Sorted Array][34] | #array #binarysearch           |
+| [62. Unique Paths][62]                                            | #dfs #graph #memoization       |
 | [92. Reverse Linked List II][92]                                  | #linkedlist #pointers          |
 | [113. Path Sum II][113]                                           | #backtracking #binarytree #dfs |
 | [198. House Robber][198]                                          | #dp #tabulation                |
@@ -37,16 +38,17 @@
 [15]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/15.js
 [16]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/16.js
 [18]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/18.js
-[34]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/18.js
-[92]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/34.js
+[34]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/34.js
+[62]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/62.js
+[92]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/92.js
 [112]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/112.js
 [113]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/113.js
 [141]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/141.js
-[283]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/283.js
 [198]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/198.js
 [200]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/200.js
 [210]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/210.js
 [222]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/222.js
 [230]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/230.js
+[283]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/283.js
 [543]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/543.js
 [704]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/704.js
