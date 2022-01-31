@@ -2,6 +2,10 @@
 
 ## Hard
 
+| Problem                    | Tags                      |
+| -------------------------- | ------------------------- |
+| [212. Word Search II][212] | #graph #memoization #trie |
+
 ---
 
 ## Medium
@@ -49,6 +53,7 @@
 [200]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/200.js
 [208]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/208.js
 [210]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/210.js
+[212]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/hard/212.js
 [222]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/222.js
 [230]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/230.js
 [283]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/283.js
