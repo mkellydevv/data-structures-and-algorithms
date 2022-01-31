@@ -17,9 +17,11 @@
 
 ## String Methods
 
+- "Leet".startsWith("Le") => boolean
+
 ### Convert to/from ASCII code
 
-- A-Z: 65-90, a-z: 97-122
+- A-Z: 65-90, a-z: 97-122, 0-9: 48-57
 - 'A'.charCodeAt(0) => 65
 - String.fromCharCode(97) => 'a'
 
@@ -35,9 +37,9 @@
 - .indexOf()
 - .map()
 - .filter()
-- .reduce()
-- .join()
-- .split()
+- .reduce((prev, curr) => prev + curr, 0) => sum
+- .join('') => string
+- .split(' ') => array
 - .slice()
 - .splice()
 - .sort()
