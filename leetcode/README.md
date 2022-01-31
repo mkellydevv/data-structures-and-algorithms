@@ -31,14 +31,15 @@
 
 ## Easy
 
-| Problem                             | Tags                           |
-| ----------------------------------- | ------------------------------ |
-| [1. Two Sum][1]                     | #array #map                    |
-| [112. Path Sum][112]                | #backtracking #binarytree #dfs |
-| [141. Linked List Cycle][141]       | #linkedlist #pointers          |
-| [283. Move Zeroes][283]             | #pointers                      |
-| [543. Diameter of Binary Tree][543] | #binarytree #dfs               |
-| [704. Binary Search][704]           | #array #binarysearch           |
+| Problem                              | Tags                           |
+| ------------------------------------ | ------------------------------ |
+| [1. Two Sum][1]                      | #array #map                    |
+| [112. Path Sum][112]                 | #backtracking #binarytree #dfs |
+| [141. Linked List Cycle][141]        | #linkedlist #pointers          |
+| [283. Move Zeroes][283]              | #pointers                      |
+| [543. Diameter of Binary Tree][543]  | #binarytree #dfs               |
+| [704. Binary Search][704]            | #array #binarysearch           |
+| [844. Backspace String Compare][844] | #array #pointers               |
 
 [1]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/1.js
 [11]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/11.js
@@ -61,3 +62,4 @@
 [283]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/283.js
 [543]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/543.js
 [704]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/704.js
+[844]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/844.js
