@@ -29,6 +29,7 @@
 | [222. Count Complete Tree Nodes][222]                                 | #binarysearch #binarytree      |
 | [230. Kth Smallest Element in a BST][230]                             | #binarytree #bst #dfs          |
 | [253. Meeting Rooms II][253]                                          | #pointers                      |
+| [814. Binary Tree Pruning][814]                                       | #binarytree                    |
 
 ---
 
@@ -68,4 +69,5 @@
 [283]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/283.js
 [543]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/543.js
 [704]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/704.js
+[814]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/814.js
 [844]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/844.js
