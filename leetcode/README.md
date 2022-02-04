@@ -19,6 +19,7 @@
 | [18. 4Sum][18]                                                        | #array #pointers #sort         |
 | [34. Find First and Last Position of Element in Sorted Array][34]     | #array #binarysearch           |
 | [62. Unique Paths][62]                                                | #dfs #graph #memoization       |
+| [77. Combinations][77]                                                | #array #backtracking           |
 | [92. Reverse Linked List II][92]                                      | #linkedlist #pointers          |
 | [105. Construct Binary Tree from Preorder and Inorder Traversal][105] | #binarytree #divideandconquer  |
 | [113. Path Sum II][113]                                               | #backtracking #binarytree #dfs |
@@ -53,6 +54,7 @@
 [23]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/hard/23.js
 [34]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/34.js
 [62]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/62.js
+[77]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/77.js
 [92]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/92.js
 [105]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/105.js
 [112]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/112.js
