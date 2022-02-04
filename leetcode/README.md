@@ -23,6 +23,7 @@
 | [92. Reverse Linked List II][92]                                      | #linkedlist #pointers          |
 | [105. Construct Binary Tree from Preorder and Inorder Traversal][105] | #binarytree #divideandconquer  |
 | [113. Path Sum II][113]                                               | #backtracking #binarytree #dfs |
+| [138. Copy List with Random Pointer][138]                             | #linkedlist                    |
 | [198. House Robber][198]                                              | #dp #tabulation                |
 | [200. Number of Islands][200]                                         | #dfs #graph                    |
 | [208. Implement Trie (Prefix Tree)][208]                              | #trie                          |
@@ -59,6 +60,7 @@
 [105]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/105.js
 [112]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/112.js
 [113]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/113.js
+[138]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/138.js
 [141]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/141.js
 [198]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/198.js
 [200]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/200.js
