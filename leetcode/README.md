@@ -2,9 +2,10 @@
 
 ## Hard
 
-| Problem                    | Tags                      |
-| -------------------------- | ------------------------- |
-| [212. Word Search II][212] | #graph #memoization #trie |
+| Problem                        | Tags                                      |
+| ------------------------------ | ----------------------------------------- |
+| [23. Merge k Sorted Lists][23] | #bucketsort #divideandconquer #linkedlist |
+| [212. Word Search II][212]     | #graph #memoization #trie                 |
 
 ---
 
@@ -47,6 +48,7 @@
 [15]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/15.js
 [16]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/16.js
 [18]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/18.js
+[23]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/hard/23.js
 [34]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/34.js
 [62]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/62.js
 [92]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/92.js
