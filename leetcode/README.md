@@ -33,6 +33,7 @@
 | [230. Kth Smallest Element in a BST][230]                             | #binarytree #bst #dfs          |
 | [253. Meeting Rooms II][253]                                          | #pointers                      |
 | [814. Binary Tree Pruning][814]                                       | #binarytree                    |
+| [904. Fruit Into Baskets][904]                                        | #array #slidingwindow          |
 
 ---
 
@@ -77,3 +78,4 @@
 [704]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/704.js
 [814]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/814.js
 [844]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/844.js
+[904]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/904.js
