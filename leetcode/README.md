@@ -2,11 +2,12 @@
 
 ## Hard
 
-| Problem                                  | Tags                                      |
-| ---------------------------------------- | ----------------------------------------- |
-| [23. Merge k Sorted Lists][23]           | #bucketsort #divideandconquer #linkedlist |
-| [124. Binary Tree Maximum Path Sum][124] | #binarytree #dfs                          |
-| [212. Word Search II][212]               | #graph #memoization #trie                 |
+| Problem                                             | Tags                                      |
+| --------------------------------------------------- | ----------------------------------------- |
+| [23. Merge k Sorted Lists][23]                      | #bucketsort #divideandconquer #linkedlist |
+| [30. Substring with Concatenation of All Words][30] | #array #divideandconqure #hashmap         |
+| [124. Binary Tree Maximum Path Sum][124]            | #binarytree #dfs                          |
+| [212. Word Search II][212]                          | #graph #memoization #trie                 |
 
 ---
 
@@ -55,6 +56,7 @@
 [16]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/16.js
 [18]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/18.js
 [23]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/hard/23.js
+[30]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/hard/30.js
 [34]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/34.js
 [62]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/62.js
 [77]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/77.js
