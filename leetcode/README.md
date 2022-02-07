@@ -15,6 +15,7 @@
 
 | Problem                                                               | Tags                           |
 | --------------------------------------------------------------------- | ------------------------------ |
+| [3. Longest Substring Without Repeating Characters][3]                | #array #slidingwindow          |
 | [11. Container With Most Water][11]                                   | #array #pointers               |
 | [15. 3Sum][15]                                                        | #array #pointers #sort         |
 | [16. 3Sum Closest][16]                                                | #array #pointers #sort         |
@@ -51,6 +52,7 @@
 | [844. Backspace String Compare][844] | #array #pointers               |
 
 [1]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/easy/1.js
+[3]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/3.js
 [11]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/11.js
 [15]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/15.js
 [16]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/16.js
