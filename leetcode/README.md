@@ -22,6 +22,7 @@
 | [18. 4Sum][18]                                                        | #array #pointers #sort         |
 | [31. Next Permutation][31]                                            | #array #twopointers            |
 | [34. Find First and Last Position of Element in Sorted Array][34]     | #array #binarysearch           |
+| [48. Rotate Image][48]                                                | #array #pointers               |
 | [62. Unique Paths][62]                                                | #dfs #graph #memoization       |
 | [77. Combinations][77]                                                | #array #backtracking           |
 | [92. Reverse Linked List II][92]                                      | #linkedlist #pointers          |
@@ -62,6 +63,7 @@
 [30]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/hard/30.js
 [31]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/31.js
 [34]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/34.js
+[48]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/48.js
 [62]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/62.js
 [77]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/77.js
 [92]: https://github.com/mkellydevv/data-structures-and-algorithms/blob/master/leetcode/medium/92.js

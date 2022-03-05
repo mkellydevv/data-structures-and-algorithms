@@ -1,18 +1,39 @@
+## Data Structures
+
+- Linked List
+  - Single Linked List
+  - Doubly Linked List
+- Stacks
+- Queues
+- Hashmaps, Hashsets
+- Trees
+  - Binary Trees
+  - Binary Search Trees
+  - AVL Trees
+  - B+ Trees
+  - Binary Indexed Trees
+  - Tries
+- Graphs
+  - Flow Networks
+    - Ford-Fulkerson Algorithm
+  - Bellman-Ford Algorithm
+
 ## Algorithms
 
 ### General
 
 - DFS
 - BFS
+- Pre, In, Post Order Traversal
 - Binary Search on arrays and trees
 - Graph Traversal including Cyclic
 - Sliding Pointer
-- Recursion
-- Inverting binary trees, reversing a linked list
 - Tries (and Suffix Trees)
   - Text validation
-- Heaps
 - Dynamic Programming
+- Greedy Algorithms
+- Recursion
+- Bit Manipulation
 - Sorting Algos
   - Merge Sort
   - Quick Sort
@@ -30,3 +51,9 @@
 - **Floyd's Cycle Finding Algorithm (Tortoise and Hare)**
   - Time: O(n), Space: O(1)
   - Detects a cycle in a linked list.
+- **Dijkstra's Algorithm**
+  - Time: O(v + e)
+  - Finds the shortest path between two vertices in a weighted graph.
+- **A\* Algorithm**
+  - Time: O(v + e)
+  - Finds the shortest path between two vertices in a weighted graph.

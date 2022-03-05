@@ -7,7 +7,7 @@ var minMeetingRooms = function (intervals) {
   let roomCount = 0;
   let maxRoomCount = -Infinity;
 
-  while (i !== intervals.length && j !== intervals.length) {
+  while (i !== intervals.length) {
     if (startTimes[i] < endTimes[j]) {
       roomCount++;
       maxRoomCount = Math.max(maxRoomCount, roomCount);
