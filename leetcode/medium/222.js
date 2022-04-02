@@ -10,7 +10,7 @@
  * @param {TreeNode} root
  * @return {number}
  */
-var countNodes = function (root) {
+const countNodes = function (root) {
   if (!root) return 0;
 
   const height = getHeightOfTree(root);
